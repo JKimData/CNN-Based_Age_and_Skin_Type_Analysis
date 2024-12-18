@@ -1,5 +1,5 @@
 # 👩 CNN-Based Age and Skin Type Analysis
-> **CNN 기반 나이 및 피부 분석을 통한 스킨테어 맞춤 솔루션** \
+> **CNN 기반 나이 및 피부 분석을 통한 스킨케어 맞춤 솔루션** \
 > Advisor: 민형기 교수님(한양대학교)
 
 ### 📌 프로젝트 소개
