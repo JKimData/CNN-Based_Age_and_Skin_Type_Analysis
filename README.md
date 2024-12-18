@@ -40,8 +40,8 @@ ___
 
 ![그림1](https://github.com/user-attachments/assets/a11d8559-6e50-4147-9a0b-d93c1d43c031)
 
-- Train: Age Mse(4.66 - Loss: 7.21), Skin Type Accuracy(64.64 - Loss: 1.60), F1: 0.53, Recall: 0.46, Precision: 0.61, AUC: 0.69
-- Test: Age Mse(7.68 - Loss: 19.29), Skin Type Accuracy(59.43 - Loss: 1.66), F1: 0.42, Recall: 0.24, Precision: 0.53, AUC: 0.60
+- Train: Age MAE (4.66 - Loss: 7.21), Skin Type Accuracy(64.64 - Loss: 1.60), F1: 0.53, Recall: 0.46, Precision: 0.61, AUC: 0.69
+- Test: Age MAE (7.68 - Loss: 19.29), Skin Type Accuracy(59.43 - Loss: 1.66), F1: 0.42, Recall: 0.24, Precision: 0.53, AUC: 0.60
 - Train 데이터에서는 나이 예측과 피부타입 예측 모두 좋은 성능을 보이나, Test 데이터에서는 피부 타입 정확도가 낮아지고, Recall 이 현저히 떨어짐
 - 과적합 가능성이 높으며, 이로 인해 모델의 일반화 성능이 다소 감소함
 - 특히 피부 타입 예측 성능 향상을 위해 추가적인 모댈 개선 또는 파라미터 튜닝등을 계속해서 필요함
