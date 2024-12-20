@@ -34,7 +34,8 @@ ___
 - 이미지의 각 부분(총 9개)을 개별적으로 분석하여 나이를 예측하고, 피부 타입은 0.5 이하일 경우 건성, 0.5 이상일 경우 지성으로 1차 분류
 - 1차 분류 후 각 부분의 분석 결과를 평균하여 전체 이미지의 나이대와 피부타입을 결정함
 
-![그림1](https://github.com/user-attachments/assets/b9ebd7eb-b1c5-46d2-bfa0-e036df5ab76b)
+![image](https://github.com/user-attachments/assets/86571738-0ade-43ee-b0a5-bf212785c8e3)
+
 
 **✔ 모델 학습 결과**
 
